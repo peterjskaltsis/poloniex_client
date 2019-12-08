@@ -24,3 +24,5 @@ poloniex_client-*.tar
 
 # Environment variables
 .env
+
+.DS_Store
